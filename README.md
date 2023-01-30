@@ -3,7 +3,7 @@
 Innovative AI student who is studying fundamentals of Computer Science and AI. Passionate about solving real-world problems with AI. Built predictive models and used algorithms in different Machine Learning problems. Projects and notebooks about ML problems are on Github. Also interested in blockchain, cryptocurrencies, and developing smart contracts. 
 
 
-Taking Bioinformatics, Algorithms for Massive Datasets, Information Retrievel, Business Information Systems lectures at Milano University
+I've took Bioinformatics, Algorithms for Massive Datasets, Information Retrievel, Business Information Systems lectures at Milano University
 
 
 ## 🔗 
